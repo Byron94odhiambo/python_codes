@@ -5,7 +5,7 @@ import urllib2
  
 
 threads = 10
-target = "http://www.seku.ac.ke"
+target = "http://"
 directory = "/Users/justin/Downloads/joomla-3.1.1"
 filters = [".jpg",".gif","png",".css"]
 
